@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "kecamatan": "Sumedang Selatan",
+        "laki_laki": 39618,
+        "perempuan": 38819,
+        "jumlah": 78437,
+        "kepadatan": 848,
+        "usia_produktif": 86.25,
+        "sumber": "BPS SP2020"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [107.915, -6.850],
+            [107.925, -6.850],
+            [107.925, -6.840],
+            [107.915, -6.840],
+            [107.915, -6.850]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kecamatan": "Sumedang Utara",
+        "laki_laki": 25000,
+        "perempuan": 24000,
+        "jumlah": 49000,
+        "kepadatan": 1200,
+        "usia_produktif": 80.0,
+        "sumber": "BPS SP2020"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [107.925, -6.850],
+            [107.935, -6.850],
+            [107.935, -6.840],
+            [107.925, -6.840],
+            [107.925, -6.850]
+          ]
+        ]
+      }
+    }
+  ]
+}
